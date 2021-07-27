@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmmcauliffe\\source\\repos\\RazorSportsTeams\\RazorSportsTeams\\RazorSportsTeams.csproj": {}
+    "C:\\Source\\razorsportsteams\\RazorSportsTeams\\RazorSportsTeams.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmmcauliffe\\source\\repos\\RazorSportsTeams\\RazorSportsTeams\\RazorSportsTeams.csproj": {
+    "C:\\Source\\razorsportsteams\\RazorSportsTeams\\RazorSportsTeams.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmmcauliffe\\source\\repos\\RazorSportsTeams\\RazorSportsTeams\\RazorSportsTeams.csproj",
+        "projectUniqueName": "C:\\Source\\razorsportsteams\\RazorSportsTeams\\RazorSportsTeams.csproj",
         "projectName": "RazorSportsTeams",
-        "projectPath": "C:\\Users\\mmmcauliffe\\source\\repos\\RazorSportsTeams\\RazorSportsTeams\\RazorSportsTeams.csproj",
+        "projectPath": "C:\\Source\\razorsportsteams\\RazorSportsTeams\\RazorSportsTeams.csproj",
         "packagesPath": "C:\\Users\\mmmcauliffe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmmcauliffe\\source\\repos\\RazorSportsTeams\\RazorSportsTeams\\obj\\",
+        "outputPath": "C:\\Source\\razorsportsteams\\RazorSportsTeams\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

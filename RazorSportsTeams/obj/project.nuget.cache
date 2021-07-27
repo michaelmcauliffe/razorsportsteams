@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zRVEe8Uyxwg/j7l3xTfDDnVJ4lC+f+KjSkloNKxu0KFXwmF6GS/qSqvBoz0bxBR5EI+tpMpMBiMTyswwBNnZMQ==",
+  "dgSpecHash": "dp+6nsQblHifYBJw4vePasESIhzsBCfPf3+2853tf0dBpzartza/WqC2MjwkpgTP1SUDVCsy82hgJRiNnlfIMg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmmcauliffe\\source\\repos\\RazorSportsTeams\\RazorSportsTeams\\RazorSportsTeams.csproj",
+  "projectFilePath": "C:\\Source\\razorsportsteams\\RazorSportsTeams\\RazorSportsTeams.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mmmcauliffe\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\mmmcauliffe\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

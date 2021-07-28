@@ -3,7 +3,7 @@
 ## Prerequisites
 
 - .NET 5.0 (https://dotnet.microsoft.com/download)
-- Visual Studio 19(or newer)
+- Visual Studio 2019(or newer)
 - Docker Desktop if on mac 
 - You will need to set up a 'Team' table through SQL Server Object Explorer(SQL script is provided)
 
